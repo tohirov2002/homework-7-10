@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/.." vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../6-vazifa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../7-vazifa" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../amaliy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../exam" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../homework11" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vazifa-1" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vazifa-4" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../vazifa-4/4-vazifa" vcs="Git" />
+  </component>
+</project>
